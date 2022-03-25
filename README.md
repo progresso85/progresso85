@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, je m'appelle Martin HEURIPEAU</h1>
 <h3 align="center">Passionné d'informatique et de jeux vidéos 🎮🖥🖱</h3>
-<img align="right" alt="Coding" width="400" src="https://www.grandeecolenumerique.fr/sites/default/files/2019-04/picto-famille-metiers-developpement_1.png">
+<img align="right" alt="Coding" width="300" src="https://www.grandeecolenumerique.fr/sites/default/files/2019-04/picto-famille-metiers-developpement_1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progresso85&label=Profile%20views&color=0e75b6&style=flat" alt="progresso85" /> </p>
 
