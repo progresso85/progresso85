@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, je m'appelle Martin HEURIPEAU</h1>
 <h3 align="center">Passionné d'informatique et de jeux vidéos 🎮🖥🖱</h3>
-<img align="right" alt="Coding" width="400" src="https://static.wikia.nocookie.net/cyberpunk/images/2/23/CP2077_Samurai_Logo.jpeg/revision/latest/top-crop/width/360/height/450?cb=20210425144838">
+<img align="right" alt="Coding" width="400" src="https://www.grandeecolenumerique.fr/sites/default/files/2019-04/picto-famille-metiers-developpement_1.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progresso85&label=Profile%20views&color=0e75b6&style=flat" alt="progresso85" /> </p>
 
