@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, je m'appelle Martin HEURIPEAU</h1>
 <h3 align="center">Passionné d'informatique et de jeux vidéos 🎮🖥🖱</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/ebf74887520abe1b1fbed76f463af135/tumblr_pew3zxiCR71rnbw6mo1_1280.gifv">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/IXJp.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=progresso85&label=Profile%20views&color=0e75b6&style=flat" alt="progresso85" /> </p>
 
